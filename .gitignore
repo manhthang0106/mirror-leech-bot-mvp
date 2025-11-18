@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual Environment
+mltbenv/
+venv/
+ENV/
+env/
+
+# Logs
+*.log
+log.txt
+rlog.txt
+
+# Configuration
+config.py
+config.env
+.env
+
+# Credentials & Tokens
+token.pickle
+credentials.json
+accounts/
+rclone.conf
+rclone/
+*.session
+*.session-journal
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Downloads
+downloads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
+
+# Git
+.git/
+.gitattributes
+
+# Misc
+*.torrent
+*.aria2
+*.!qB
